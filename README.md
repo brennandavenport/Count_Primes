@@ -1,0 +1,1 @@
+Repo for calculating the most amount of prime numbers in 1 sec
