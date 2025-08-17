@@ -1,0 +1,9 @@
+constants:
+  max_number: 100000000
+  max_time: 1
+
+algorithms:
+  brute_force: true
+  optimized_brute_force: true
+
+  
